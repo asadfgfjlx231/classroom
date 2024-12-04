@@ -1,0 +1,71 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+    background-color: indianred;
+    text-align: center;
+}
+
+.container {
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 20px;
+    background: palegoldenrod;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(141, 131, 11, 1);
+}
+
+.button-group input[type="submit"] {
+    margin: 5px;
+    padding: 15px 20px;
+    background-color: violet;
+    color: saddlebrown;
+    border: yellow;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.button-group input[type="submit"]:hover {
+    background-color: aquamarine;
+}
+
+.class-names {
+    margin-top: 20px;
+    text-align: left;
+}
+
+.student {
+    margin-bottom: 10px;
+}
+
+.student h3 {
+    margin: 5px 0;
+    color: #333;
+}
+
+.subject {
+    margin-left: 20px;
+}
+
+.subject span {
+    font-weight: bold;
+}
+.nem h3 {
+    margin: 5px 0;
+    color: #333;
+    font-size: small;
+    margin-left: 10px;
+
+}
+.export-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.export-button:hover {
+    background-color: #0056b3;
+}
+
